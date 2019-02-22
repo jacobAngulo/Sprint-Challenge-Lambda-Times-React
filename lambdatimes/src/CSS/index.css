@@ -103,6 +103,7 @@ body {
   margin-right: 5%;
 }
 .top-bar .container .container-center span:last-child {
+  cursor: pointer;
   margin-right: 0;
 }
 .top-bar .container .container-center span:hover {
